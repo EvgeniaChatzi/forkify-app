@@ -1,0 +1,37 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\evgenia.chatzi\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add webpack
+
+PATH: 
+  C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\evgenia.chatzi\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Google\Google Apps Sync;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Users\evgenia.chatzi\AppData\Local\Microsoft\WindowsApps;C:\Users\evgenia.chatzi\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\evgenia.chatzi\AppData\Roaming\npm;C:\Users\evgenia.chatzi\AppData\Local\atom\bin;C:\Users\evgenia.chatzi\AppData\Local\Programs\Fiddler
+
+Yarn version: 
+  1.21.1
+
+Node version: 
+  10.16.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND proget.corp.bettingcloud.com proget.corp.bettingcloud.com:443
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+
+npm manifest: 
+  {
+    "name": "forkify",
+    "version": "1.0.0",
+    "description": "forkify project",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Evgenia Chatzi",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
